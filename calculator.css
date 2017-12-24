@@ -5,25 +5,19 @@
     background: #c7c7c7;
     padding-bottom: 15%;
 }
-
-.btn.b1{
+#table{
     text-align: center;
-    width: 60px;
-    height: 60px;
-    color: #190000;
-    font-weight: bold;
-    font-size: 25px;
+    margin-left: 40%;
+    font-size: 40px;
 }
 
-
-/*overriding bootstrap style*/
-.btn.b1:hover{
-    color: white;
-    background: #7a7a7a;
-
+.inputs{
+    width: 50px;
+    text-align: center;
 }
-#buttons{
-    margin-left: 35%;
+.inputs:hover{
+    background: cadetblue;
+    color: #ffffff;
 }
 
 
