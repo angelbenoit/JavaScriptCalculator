@@ -1,9 +1,21 @@
-
+html{
+    height: 100%;
+}
+#title{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+body{
+    background: linear-gradient(black, silver);
+    background-repeat: no-repeat;
+}
 #calc{
     text-align: center;
-    border: 2px solid #909080;
-    background: #c7c7c7;
-    padding-bottom: 15%;
+    border: 2px solid #5e5e51;
+    background: #ababab;
+    padding-bottom: 10%;
+    margin-top: 15%;
 }
 #table{
     text-align: center;
@@ -16,7 +28,7 @@
     text-align: center;
 }
 .inputs:hover{
-    background: cadetblue;
+    background: #3b3e40;
     color: #ffffff;
 }
 
